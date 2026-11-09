@@ -66,7 +66,7 @@ Input (128×128×3)
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/dlsoul13/cnn_project.git
+git clone https://github.com/ravshanovna-d/cnn_project.git
 cd cnn_project/my_cnn_project
 
 pip install fastapi uvicorn tensorflow pillow numpy python-multipart
